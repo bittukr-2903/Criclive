@@ -1,0 +1,22 @@
+body{
+    min-width: 500px;
+    font-style: Garamond;
+    color:brown;
+    background-color: cornsilk;
+    font-size:medium;
+
+}
+h2{
+font-display: front;
+color:black;
+margin-left: 50px;
+font-size: large;
+}
+h4{
+    font-size: small;
+    color:grey
+}
+
+
+
+

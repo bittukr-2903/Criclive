@@ -1,0 +1,11 @@
+{
+    "name": "Criclive",
+    "version": "1.0.0",
+    "description": "Now you will not miss any updates regarding the matches and their scores, Just one click and will be able to get all updates on your hand, without searching for any cricbuzz n all",
+    "manifest_version": 3,
+    "author": "B.K.Vishwakarma",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Criclive"
+    }
+}
